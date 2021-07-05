@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diane@lesateliersdelamarmotte.com
+	name = dianeorlach
